@@ -35,7 +35,3 @@ Hospitality is a highly competitive market that forces hotels to offer free canc
 - XGBoost
 
 Contributing members: Ana Claudia Alferes (m20190932@novaims.unl.pt), Michael Machatschek (m20190054@novaims.unl.pt) and Pedro Santos (m20190420@novaims.unl.pt).
-
-### Project 4: The Classification Learning Notebook
-
-Ongoing project with the goal the display a common classification problem based on the CRISP-DM process. (individual project)
