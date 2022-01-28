@@ -2,12 +2,6 @@
 
 This GitHub repository contains some of the projects I was contributing to. Results of further projects, such as smart basket analysis, a demand prediction, and an entire database modeling creation process could be shared on-demand. All of the projects were done mostly in Python with the support of given libraries, for instance, Pandas, sklearn, and plotly. Within the projects several of the most common algorithms in supervised and unsupervised learning are implemented.
 
-In addition to Python, more languages and techniques used are: 
-- SQL (MySQL, Microsoft SQL Server Management Studio), 
-- NoSQL (mongoDB, neo4j, and Redis), 
-- ETL-tools (Pentaho Data Integration),
-- Reporting/Visualization tools (Microsoft PowerBI and Dash).  
-
 Please feel free to contact me, I am looking forward to hearing from you: [LinkedIn](https://www.linkedin.com/in/lennart-dangers-6a6413169/)
 
 ## Content: 
